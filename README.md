@@ -60,6 +60,7 @@ Here is the exact query used to retrieve the necessary data from Athena:
 
 sql
 SELECT * FROM cityofvancouver_311servicerequest_table1_deepankar;
+<![image](https://github.com/user-attachments/assets/e1042ed8-c2af-4c37-a3fd-b7d9b5af3880)>
 
 
 ## Data Visualization
