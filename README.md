@@ -68,7 +68,7 @@ SELECT * FROM cityofvancouver_311servicerequest_table1_deepankar;
 
 *Visualization 1*: Histogram of Lost Breed Rates %
 
-<img width="1441" alt="Screenshot 2024-09-18 at 2 57 03 AM" src="https://github.com/user-attachments/assets/53c0feb6-7a56-4f43-ab3b-41eb860e91f9">
+<![Graph](https://github.com/user-attachments/assets/6156a965-740a-4654-950d-1866ccf186b7)>
 
 
 ## Publishing and Web Hosting
