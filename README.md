@@ -50,7 +50,7 @@ To *analyze the APR  of total request closed* for the years 2023 and 2024.
 ### 3. ETL Pipeline
 
 - *AWS Glue*: Used Glue Feature to transform the data and that high quality data stored in the curated folder.
-<img width="1027" alt="Screenshot 2024-09-18 at 2 48 42 AM" src="https://github.com/user-attachments/assets/f2c4c837-8958-48a2-ae35-ac7c100c29ad">
+<![ETL](https://github.com/user-attachments/assets/66daeed5-f71b-48bf-b37f-4441c6d3e51e)>
 
 ### 4. Data Analysis
 
