@@ -29,7 +29,7 @@ The dataset all the requests closed records from Vancouver, spanning March 2023 
 
 Dataset link: [*311-Servide Requests dataset*](https://opendata.vancouver.ca/explore/dataset/3-1-1-service-requests/export/?disjunctive.department&disjunctive.service_request_type&disjunctive.status&disjunctive.closure_reason&disjunctive.local_area&disjunctive.channel)
 
-<img width="1249" alt="Screenshot 2024-09-18 at 3 35 19 AM" src="https://github.com/user-attachments/assets/90c44f92-a7d5-4a1a-ae3f-ce948035d984">
+
 
 
 ## Data Analytical Question Formulation
