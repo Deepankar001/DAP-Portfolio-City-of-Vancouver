@@ -80,7 +80,7 @@ SELECT * FROM cityofvancouver_311servicerequest_table1_deepankar;
 - *AWS Key Management Service (KMS)*: Encryption was applied on the data which was in Storage bucket by using KMS.
 - *Data Replication*: Replication was applied to get the backup of whole data in the backup bucket 
 - *AWS Glue*: Again ETL pipeline was made and resulted files were stored in the trusted folder. 
-
+<![Trusted ETL](https://github.com/user-attachments/assets/51a2b14c-a462-401d-93ae-04a555c40865)>
 ## Data Monitoring
 
 - *AWS CloudTrail*: CloudTrail was used to track API calls and user activities in the AWS environment, helping to improve auditing and security.
